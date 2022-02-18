@@ -38,7 +38,7 @@
 
 DOS命令：ipconfig -all得到ip地址，ping+ip开启PING操作
 
-
+！[image](https://github.com/hiahiagiao/ComputerInternet/edit/main/images/C9HA8VYPR}V7DFEL(UY}[LL.png)
 
 **2. tracert一台服务器**
 
