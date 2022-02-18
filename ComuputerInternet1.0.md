@@ -43,6 +43,7 @@ DOS命令：ipconfig -all得到ip地址，ping+ip开启PING操作
 **2. tracert一台服务器**
 
 > tracert 是一个简单的网络诊断工具，可以列出分组经过的路由节点，以及它在IP 网络中每一跳的延迟。
+
 实验结果图片上传失败，请见image文件夹里0102
 
 
